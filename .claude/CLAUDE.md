@@ -39,7 +39,7 @@ The toolbar at the bottom of the chat provides these actions:
 | **Control Keys** | Open a reference of keyboard shortcuts for the terminal |
 | **Resume** | Resume the most recent interrupted Claude Code session |
 | **Files** | Browse the workspace file tree — navigate folders, click files to view, click **preview** on HTML files to open them in-browser |
-| **Upload** | Upload files from your device into `~/uploads/` (max 500 MB) |
+| **Upload** | Upload files from your device into `~/uploads/` (max 5 GB) |
 | **Clear** | Clear the current terminal display (does not erase conversation history) |
 | **Logs** | View Claude Code system logs for debugging |
 
